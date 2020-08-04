@@ -20,7 +20,7 @@ a) Any Estimated Stats/Projections
 11) Questions
 
 Additional Week 1 Kick Off Meetings:
-1) Product manager meets with client to review client discovery report in more detail
+1) Product manager meets with client to review client team and stakeholders to review and discuss discovery report in more detail
 2) Product manager meets with product team to review backlog to prioritize this project
 3) Product manager meets with tech to review current projects to identify resource availability
 4) Product manager and client team meets with marketing to introduce project and formalize plan for product release communication
