@@ -28,7 +28,7 @@ Additional Week 1 Kick Off Meetings:
 6) Product manager and client team meets with content team to discuss what is needed (documentation, articles, promotional material, etc.) to support new product
 7) Product manager meets with tech to discuss project on a more technical level and any potential obstacles that should be noted in the product spec
 
-Spring Ceremonies/Events:
+Sprint Ceremonies/Events:
 1) Sprint Planning
 a) Occurs every 2 weeks, the week before the next sprint is schedule to begin
 b) Participants: Product manager, development team and scrum master
