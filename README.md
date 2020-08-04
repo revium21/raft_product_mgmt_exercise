@@ -7,6 +7,7 @@ a) Product vision
 b) What you are developing and why
 c) User Challenges and how they will be solved/addressed
 d) Scope/Deliverables
+e) Roadmap
 3) Client discovery items/report
 a) Any Estimated Stats/Projections
 4) Resources
