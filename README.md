@@ -49,7 +49,7 @@ c) The output of the meeting will be notes from each person's status report
 a) Occurs in the afternoon on the last day of the sprint
 b) Participants: Product manager, development team and scrum master. Depending on the features completed, the client stakeholders may be invited
 c) Features developed and completed from the existing sprint are reviewed and feedback can be provided
-d) The output of the meeting will be notes on each completed task, any relevant feedback that needs to be logged and if something is not completed or any bugs are found they will be entered into the project management tool. The project management tool will be updated to reflect any completed tasks
+d) The output of the meeting will be notes on each completed task, any relevant feedback that needs to be logged and if something is not completed or any bugs are found they will be entered into the project management tool. The project management tool will be updated to reflect any completed tasks and/or status changes of any open tasks
 
 4) Sprint Retrospective
 a) Occurs in the afternoon on the last day of the sprint after the 'Sprint Review' meeting
