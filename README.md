@@ -24,7 +24,7 @@ Additional Week 1 Kick Off Meetings:
 2) Product manager meets with product team to review backlog to prioritize this project
 3) Product manager meets with tech to review current projects to identify resource availability
 4) Product manager and client team meets with marketing to introduce project and formalize plan for product release communication
-5) Product manager and client team meets with design team to review any wire frames or concept mockups and discuss the project
+5) Product manager and client team meets with design team to review any preliminary wire frames or concept mockups and discuss the project
 6) Product manager and client team meets with content team to discuss what is needed (documentation, articles, promotional material, etc.) to support new product
 7) Product manager meets with tech to discuss project on a more technical level and any potential obstacles that should be noted in the product spec
 
